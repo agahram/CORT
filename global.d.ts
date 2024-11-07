@@ -1,0 +1,9 @@
+declare module "react-flatpickr";
+declare module "react-table";
+declare module "react-select";
+declare module 'google-maps-react';
+declare module "swiper/react";
+declare module 'cleave.js/react';
+declare module 'react-dual-listbox';
+declare module 'react-responsive-masonry';
+declare module 'react-speech-recognition';
